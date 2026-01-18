@@ -1,7 +1,7 @@
 {
   "name": "re-act",
   "version": "1.0.0",
-  "description": "[] The createElement Function [] The render Function [] Concurrent Mode [] Fibers [] Render and Commit Phases [] Reconciliation [] Function Components [] Hooks",
+  "description": "making react from scratch",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
