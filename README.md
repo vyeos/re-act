@@ -1,7 +1,7 @@
 [-] The createElement Function
 [-] The render Function
 [-] Concurrent Mode
-[] Fibers
+[-] Fibers
 [] Render and Commit Phases
 [] Reconciliation
 [] Function Components
