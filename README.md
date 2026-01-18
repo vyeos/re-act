@@ -1,4 +1,4 @@
-[] The createElement Function
+[-] The createElement Function
 [] The render Function
 [] Concurrent Mode
 [] Fibers
