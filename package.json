@@ -2,7 +2,7 @@
   "name": "re-act",
   "version": "1.0.0",
   "description": "making react from scratch",
-  "main": "script.js",
+  "main": "step2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/vyeos/re-act/issues"
   },
-  "homepage": "https://github.com/vyeos/re-act#readme"
-}
+  "homepage": "https://github.com/vyeos/re-act#readme",
+  "dependencies": {
+  },
+]
